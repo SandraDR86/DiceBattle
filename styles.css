@@ -1,0 +1,78 @@
+body {
+    background-color: #393E46;
+    text-shadow: #232931 1px 0 10px;
+}
+
+
+
+.titulo {
+    font-size: 100px;
+    color: #4ecca3;
+    font-family: 'Lobster', cursive;
+    margin: 0;
+}
+
+.resultado {
+    font-size: 50px;
+    color: #4ecca3;
+    font-family: 'Lobster', cursive;
+    text-shadow: 2px 4px 4px #232931;
+}
+
+p {
+    font-size: 30px;
+    color: #4ecca3;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
+
+.dice {
+
+    display: inline-block;
+    margin: 10px;
+
+}
+
+.container {
+    text-align: center;
+}
+
+img {
+    width: 80%;
+}
+
+.made {
+    font-size: 10px;
+    text-align: center;
+}
+
+.myButton {
+    box-shadow: inset 0px 7px 22px 9px #4ecca2;
+    background: linear-gradient(to bottom, #4ecca2 5%, #4ecca2 100%);
+    background-color: #4ecca2;
+    border-radius: 11px;
+    border: 1px solid #0b0e07;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 12px 27px;
+    text-decoration: none;
+    text-shadow: 1px 1px 0px #263666;
+}
+
+.myButton:hover {
+    background: linear-gradient(to bottom, #4ecca2 5%, #4ecca2 100%);
+    background-color: #4ecca2;
+}
+
+.myButton:active {
+    position: relative;
+    top: 1px;
+}
+
+.btn{
+    text-align: center;
+}
